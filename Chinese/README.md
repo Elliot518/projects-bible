@@ -22,7 +22,7 @@
 | ---- | ---- | ---- | ---- |
 |  非你莫属-个人简历模板  | [项目地址](https://gitee.com/xiaodan_yu/resume.io) | 待克隆 |  |
 | 个人简历模板 | [项目地址](https://gitee.com/itsay/resume) | 待克隆 |  |
-
+| | [项目地址](https://gitee.com/yorkecao/yorkecao) |  | |
 
 <hr>
 
