@@ -22,6 +22,7 @@ Elliot's projects bible
 
 - 待克隆
 - 已克隆
+- 已收藏
 - 学习中
 - 已学习
 - 已掌握
