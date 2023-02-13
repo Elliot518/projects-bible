@@ -22,7 +22,9 @@
 | ---- | ---- | ---- | ---- |
 |  非你莫属-个人简历模板  | [项目地址](https://gitee.com/xiaodan_yu/resume.io) | 待克隆 |  |
 | 个人简历模板 | [项目地址](https://gitee.com/itsay/resume) | 待克隆 |  |
-| | [项目地址](https://gitee.com/yorkecao/yorkecao) |  | |
+| YK-DOC| [项目地址](https://gitee.com/yorkecao/yorkecao) | 待克隆 | |
+| 简历-简洁静态页1 | [项目地址](https://gitee.com/zhongink/page) | 已克隆 |  |
+| 简历-简洁静态页2 | [项目地址](https://gitee.com/wilco/resume_static) | 已克隆 |  |
 
 <hr>
 
