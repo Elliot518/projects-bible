@@ -10,11 +10,17 @@
 
 | 项目名 | 项目克隆地址 | 状态 | 详情 |
 | ---- | ---- | ---- | ---- |
-| ruoyi-vue-pro | [项目地址](https://githubfast.com/YunaiV/ruoyi-vue-pro) | 已克隆 | |
+| ruoyi-vue-pro | [项目地址](https://githubfast.com/YunaiV/ruoyi-vue-pro) | 已克隆 | [查看](Excellent/ruoyi-vue-pro.md) |
 
 &nbsp;
 
 ### 3. 常规项目
+
+- 学习类
+
+| 项目名 | 项目克隆地址 | 状态 | 详情 |
+| ---- | ---- | ---- | ---- |
+| Spring-Boot-Labs | [项目地址](https://gitee.com/yudaocode/SpringBoot-Labs) | 待克隆 | 系统学习 Spring Boot & Cloud 专栏 |
 
 - 简历类
   
