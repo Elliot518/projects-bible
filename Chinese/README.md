@@ -10,7 +10,7 @@
 
 | 项目名 | 项目克隆地址 | 状态 | 详情 |
 | ---- | ---- | ---- | ---- |
-| xxx | [xxx](xxx) | 待克隆 | |
+| ruoyi-vue-pro | [项目地址](https://githubfast.com/YunaiV/ruoyi-vue-pro) | 已克隆 | |
 
 &nbsp;
 
